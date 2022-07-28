@@ -1,2 +1,4 @@
-# Neptune-Engine
-OpenGLES Engine for Android
+# Neptune Engine
+OpenGLES Engine for Android.
+
+Graphics 2D
